@@ -1,5 +1,5 @@
 # Election_Analysis
-## Overview. The prupose of this exercise is to certify a conge=reeianl election in Colorado.
+## Overview. The prupose of this exercise is to certify a congressional election in Colorado.
 
 ###Results.
  * There were 369,711 votes cast in this election.
